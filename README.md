@@ -2,7 +2,7 @@
 初次接触深度学习时制作，分类训练代码找不到了(应该是来自bilibli教程:thinking:)。  
 系统具有瑕疵，容错性低，图像通道会差异导致系统直接闪退，此处热力图是个大坑。  
 时隔太久不再进行修改上传以做纪念。  
-感谢my best teammate cc的支持与陪伴:grinning:。
+感谢my best teammate cc的贡献(qt两周速成)与陪伴:grinning:。
 ### 系统与模型展示
 (原图找不到了:sob:，截取自作品文档pdf)  
 ![image](./display/1.png)
