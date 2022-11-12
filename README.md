@@ -34,4 +34,4 @@ System
 准备就绪后`main.exe` 可直接运行。  
 其中模型使用到了ResNet50预训练模型权重：  
 https://download.pytorch.org/models/resnet50-19c8e357.pth  
-源码`Source code` 目录下包含当前系统制作所编写的代码，包含热力图绘制，混淆举证的绘制，系统编写等。
+源码`Source code` 目录下包含当前系统制作所编写的代码，包含热力图绘制，混淆矩阵的绘制，系统编写等。
