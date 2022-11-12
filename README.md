@@ -10,6 +10,7 @@ X-ray二分类预测，验证集混淆矩阵。
 ![image](./display/2.png)
 CT三分类预测，验证集混淆矩阵。
 ![image](./display/3.png)
+数据集较为简单，但也不排除过拟合了	:joy:。  
 X-ray数据集来自
 https://www.kaggle.com/datasets/scipygaurav/covid19-chest-xray-dataset-augmented-80
 CT数据集来自
