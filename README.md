@@ -10,14 +10,14 @@ X-ray二分类预测，验证集混淆矩阵。
 ![image](./display/2.png)
 CT三分类预测，验证集混淆矩阵。
 ![image](./display/3.png)
-数据集较为简单，但也不排除过拟合了	:joy:。  
-X-ray数据集来自
+乍一看准确率很高，医学图像数据样本较为简单，不排除过拟合了	:joy:。  
+X-ray数据集来自  
 https://www.kaggle.com/datasets/scipygaurav/covid19-chest-xray-dataset-augmented-80
-CT数据集来自
+CT数据集来自  
 https://www.kaggle.com/datasets/hgunraj/covidxct
 ### 系统运行
 系统`System`文件作为根目录，还需要新建两个目录`./NET50` `./2CData`，其中`./NET50` 模型权重从该目录中获取，`./2CData` 系统运行时使用。  
-可执行程序文件与权重上传Google硬盘:  
+可执行程序文件与模型权重上传Google硬盘:  
 https://drive.google.com/drive/folders/1OMZh_Q0QAcLMAY9qe0S_fW6KEyCx-HHd?usp=share_link  
 目录结构如下：
 ```
