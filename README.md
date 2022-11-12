@@ -22,14 +22,16 @@ https://drive.google.com/drive/folders/1OMZh_Q0QAcLMAY9qe0S_fW6KEyCx-HHd?usp=sha
 目录结构如下：
 ```
 System
-│   class2_indices.json
-│   class3_indices.json 
-│   main.exe
+|   class2_indices.json
+|   class3_indices.json
+|   main.exe
+|   resnet50-pre.pth
 |   图标.ico
-└───NET50
-│   │   ResNet50_32_2.pth
-│   └   ResNet50_64_3.pth 
-└───2CData
+|
++---2CData
+\---NET50
+        ResNet50_32_2.pth
+        ResNet50_64_3.pth
 ```
 准备就绪后`main.exe` 可直接运行。  
 其中模型使用到了ResNet50预训练模型权重：  
